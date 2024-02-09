@@ -1,0 +1,28 @@
+Blocking communication
+Step 500000
+Step 1000000
+Step 1500000
+Step 2000000
+Step 2500000
+Step 3000000
+Step 3500000
+Step 4000000
+Step 4500000
+Step 5000000
+total time: 11.5 sec
+checksum: 4993.729645324606
+
+
+Non-blocking communication (overlapping with computation)
+Step 500000
+Step 1000000
+Step 1500000
+Step 2000000
+Step 2500000
+Step 3000000
+Step 3500000
+Step 4000000
+Step 4500000
+Step 5000000
+total time: 9.49 sec
+checksum: 4993.729645324606

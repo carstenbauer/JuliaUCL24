@@ -1,0 +1,23 @@
+cpu-bind=MASK - n2fpga19, task  0  0 [4191823]: mask |BBBBBBBB|BBBBBBBB||BBBBBBBB|BBBBBBBB||BBBBBBBB|BBBBBBBB||BBBBBBBB|BBBBBBBB||||BBBBBBBB|BBBBBBBB||BBBBBBBB|BBBBBBBB||BBBBBBBB|BBBBBBBB||BBBBBBBB|BBBBBBBB|  set
+Running "module reset". Resetting modules to system default. The following $MODULEPATH directories have been removed: None
+Broadcast: MPI builtin
+number of ranks        =       16
+walltime               =     0.56 sec
+size of the vector     =     2.15 GB
+send and recv messages =    64.42 GB
+bandwidth              =   114.71 GB/s
+
+Broadcast: binary tree
+number of ranks        =       16
+walltime               =     1.79 sec
+size of the vector     =     2.15 GB
+send and recv messages =    64.42 GB
+bandwidth              =    36.00 GB/s
+
+Broadcast: sequential (naive)
+number of ranks        =       16
+walltime               =     2.64 sec
+size of the vector     =     2.15 GB
+send and recv messages =    64.42 GB
+bandwidth              =    24.42 GB/s
+

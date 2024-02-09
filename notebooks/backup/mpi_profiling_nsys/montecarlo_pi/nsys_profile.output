@@ -1,0 +1,120 @@
+Warning: LBR backtrace method is not supported on this platform. DWARF backtrace method will be used.
+(Iteration 1) π estimate: 3.141679771664046
+(Iteration 2) π estimate: 3.141909371618126
+(Iteration 3) π estimate: 3.1417673716465253
+(Iteration 4) π estimate: 3.1402985719402854
+(Iteration 5) π estimate: 3.141715771656846
+(Iteration 6) π estimate: 3.141538971692206
+(Iteration 7) π estimate: 3.1411449717710056
+(Iteration 8) π estimate: 3.1421165715766857
+(Iteration 9) π estimate: 3.1419181716163656
+(Iteration 10) π estimate: 3.140928971814206
+(Iteration 11) π estimate: 3.1410173717965257
+(Iteration 12) π estimate: 3.142218571556286
+(Iteration 13) π estimate: 3.141066171786766
+(Iteration 14) π estimate: 3.1407989718402054
+(Iteration 15) π estimate: 3.1411609717678055
+(Iteration 16) π estimate: 3.1415037716992456
+(Iteration 17) π estimate: 3.141395771720846
+(Iteration 18) π estimate: 3.141845371630925
+(Iteration 19) π estimate: 3.1422493715501254
+(Iteration 20) π estimate: 3.1411117717776462
+(Iteration 21) π estimate: 3.1417729716454055
+(Iteration 22) π estimate: 3.1407569718486053
+(Iteration 23) π estimate: 3.1423853715229257
+(Iteration 24) π estimate: 3.1411457717708458
+(Iteration 25) π estimate: 3.141893771621246
+(Iteration 26) π estimate: 3.1411941717611653
+(Iteration 27) π estimate: 3.140767771846446
+(Iteration 28) π estimate: 3.1416853716629256
+(Iteration 29) π estimate: 3.1420001715999657
+(Iteration 30) π estimate: 3.1408277718344455
+(Iteration 31) π estimate: 3.1421497715700455
+(Iteration 32) π estimate: 3.141891371621726
+(Iteration 33) π estimate: 3.141560971687806
+(Iteration 34) π estimate: 3.1417873716425255
+(Iteration 35) π estimate: 3.1420281715943656
+(Iteration 36) π estimate: 3.1414421717115655
+(Iteration 37) π estimate: 3.1411833717633257
+(Iteration 38) π estimate: 3.1421685715662857
+(Iteration 39) π estimate: 3.140834171833166
+(Iteration 40) π estimate: 3.1407025718594856
+(Iteration 41) π estimate: 3.141404971719006
+(Iteration 42) π estimate: 3.141858171628366
+(Iteration 43) π estimate: 3.1404629719074055
+(Iteration 44) π estimate: 3.1406253718749255
+(Iteration 45) π estimate: 3.1425053714989257
+(Iteration 46) π estimate: 3.141317771736445
+(Iteration 47) π estimate: 3.141392171721565
+(Iteration 48) π estimate: 3.1426665714666857
+(Iteration 49) π estimate: 3.142033371593326
+(Iteration 50) π estimate: 3.1406085718782855
+(Iteration 51) π estimate: 3.1415717716856455
+(Iteration 52) π estimate: 3.141481371703725
+(Iteration 53) π estimate: 3.1412509717498054
+(Iteration 54) π estimate: 3.1420817715836455
+(Iteration 55) π estimate: 3.142815371436926
+(Iteration 56) π estimate: 3.1406253718749255
+(Iteration 57) π estimate: 3.1410909717818054
+(Iteration 58) π estimate: 3.142026571594686
+(Iteration 59) π estimate: 3.1419433716113256
+(Iteration 60) π estimate: 3.141677371664526
+(Iteration 61) π estimate: 3.1411133717773256
+(Iteration 62) π estimate: 3.141932971613406
+(Iteration 63) π estimate: 3.1423757715248457
+(Iteration 64) π estimate: 3.141565771686846
+(Iteration 65) π estimate: 3.1415061716987656
+(Iteration 66) π estimate: 3.1414397717120455
+(Iteration 67) π estimate: 3.142516971496606
+(Iteration 68) π estimate: 3.142561771487646
+(Iteration 69) π estimate: 3.1413185717362864
+(Iteration 70) π estimate: 3.142067771586446
+(Iteration 71) π estimate: 3.1416233716753257
+(Iteration 72) π estimate: 3.141496971700606
+(Iteration 73) π estimate: 3.1422069715586054
+(Iteration 74) π estimate: 3.1421869715626056
+(Iteration 75) π estimate: 3.1419493716101257
+(Iteration 76) π estimate: 3.1424273715145254
+(Iteration 77) π estimate: 3.1414253717149254
+(Iteration 78) π estimate: 3.141074171785166
+(Iteration 79) π estimate: 3.142734171453166
+(Iteration 80) π estimate: 3.1421105715778856
+(Iteration 81) π estimate: 3.141906571618686
+(Iteration 82) π estimate: 3.142080571583886
+(Iteration 83) π estimate: 3.1416589716682055
+(Iteration 84) π estimate: 3.140902971819406
+(Iteration 85) π estimate: 3.141224971755006
+(Iteration 86) π estimate: 3.1410857717828455
+(Iteration 87) π estimate: 3.142106971578606
+(Iteration 88) π estimate: 3.141160171767966
+(Iteration 89) π estimate: 3.141450171709966
+(Iteration 90) π estimate: 3.141864171627166
+(Iteration 91) π estimate: 3.1417141716571657
+(Iteration 92) π estimate: 3.1420629715874058
+(Iteration 93) π estimate: 3.1411437717712456
+(Iteration 94) π estimate: 3.1419693716061254
+(Iteration 95) π estimate: 3.141632971673406
+(Iteration 96) π estimate: 3.141115771776846
+(Iteration 97) π estimate: 3.1411765717646856
+(Iteration 98) π estimate: 3.141861771627646
+(Iteration 99) π estimate: 3.1415181716963656
+(Iteration 100) π estimate: 3.1424237715152454
+Minimum Δt (ms) = 8.014917373657227
+Generating '/tmp/nsys-report-7ab9.qdstrm'
+[1/3] [0%                          ] report1.nsys-rep[1/3] [0%                          ] report1.nsys-rep[1/3] [2%                          ] report1.nsys-rep[1/3] [5%                          ] report1.nsys-rep[1/3] [6%                          ] report1.nsys-rep[1/3] [7%                          ] report1.nsys-rep[1/3] [==20%                       ] report1.nsys-rep[1/3] [===24%                      ] report1.nsys-rep[1/3] [====26%                     ] report1.nsys-rep[1/3] [=======39%                  ] report1.nsys-rep[1/3] [===========50%              ] report1.nsys-rep[1/3] [============55%             ] report1.nsys-rep[1/3] [============56%             ] report1.nsys-rep[1/3] [============57%             ] report1.nsys-rep[1/3] [=============58%            ] report1.nsys-rep[1/3] [=============59%            ] report1.nsys-rep[1/3] [=============60%            ] report1.nsys-rep[1/3] [==============61%           ] report1.nsys-rep[1/3] [==============62%           ] report1.nsys-rep[1/3] [==============63%           ] report1.nsys-rep[1/3] [==============64%           ] report1.nsys-rep[1/3] [===============65%          ] report1.nsys-rep[1/3] [================70%         ] report1.nsys-rep[1/3] [========================100%] report1.nsys-rep[1/3] [========================100%] report1.nsys-rep
+[2/3] [0%                          ] report1.sqlite[2/3] [1%                          ] report1.sqlite[2/3] [2%                          ] report1.sqlite[2/3] [3%                          ] report1.sqlite[2/3] [4%                          ] report1.sqlite[2/3] [5%                          ] report1.sqlite[2/3] [6%                          ] report1.sqlite[2/3] [7%                          ] report1.sqlite[2/3] [8%                          ] report1.sqlite[2/3] [9%                          ] report1.sqlite[2/3] [10%                         ] report1.sqlite[2/3] [11%                         ] report1.sqlite[2/3] [12%                         ] report1.sqlite[2/3] [13%                         ] report1.sqlite[2/3] [14%                         ] report1.sqlite[2/3] [=15%                        ] report1.sqlite[2/3] [=16%                        ] report1.sqlite[2/3] [=17%                        ] report1.sqlite[2/3] [==18%                       ] report1.sqlite[2/3] [==19%                       ] report1.sqlite[2/3] [==20%                       ] report1.sqlite[2/3] [==21%                       ] report1.sqlite[2/3] [===22%                      ] report1.sqlite[2/3] [===23%                      ] report1.sqlite[2/3] [===24%                      ] report1.sqlite[2/3] [====25%                     ] report1.sqlite[2/3] [====26%                     ] report1.sqlite[2/3] [====27%                     ] report1.sqlite[2/3] [====28%                     ] report1.sqlite[2/3] [=====29%                    ] report1.sqlite[2/3] [=====30%                    ] report1.sqlite[2/3] [=====31%                    ] report1.sqlite[2/3] [=====32%                    ] report1.sqlite[2/3] [======33%                   ] report1.sqlite[2/3] [======34%                   ] report1.sqlite[2/3] [======35%                   ] report1.sqlite[2/3] [=======36%                  ] report1.sqlite[2/3] [=======37%                  ] report1.sqlite[2/3] [=======38%                  ] report1.sqlite[2/3] [=======39%                  ] report1.sqlite[2/3] [========40%                 ] report1.sqlite[2/3] [========41%                 ] report1.sqlite[2/3] [========42%                 ] report1.sqlite[2/3] [=========43%                ] report1.sqlite[2/3] [=========44%                ] report1.sqlite[2/3] [=========45%                ] report1.sqlite[2/3] [=========46%                ] report1.sqlite[2/3] [==========47%               ] report1.sqlite[2/3] [==========48%               ] report1.sqlite[2/3] [==========49%               ] report1.sqlite[2/3] [===========50%              ] report1.sqlite[2/3] [===========51%              ] report1.sqlite[2/3] [===========52%              ] report1.sqlite[2/3] [===========53%              ] report1.sqlite[2/3] [============54%             ] report1.sqlite[2/3] [============55%             ] report1.sqlite[2/3] [============56%             ] report1.sqlite[2/3] [============57%             ] report1.sqlite[2/3] [=============58%            ] report1.sqlite[2/3] [=============59%            ] report1.sqlite[2/3] [=============60%            ] report1.sqlite[2/3] [==============61%           ] report1.sqlite[2/3] [==============62%           ] report1.sqlite[2/3] [==============63%           ] report1.sqlite[2/3] [==============64%           ] report1.sqlite[2/3] [===============65%          ] report1.sqlite[2/3] [===============66%          ] report1.sqlite[2/3] [===============67%          ] report1.sqlite[2/3] [================68%         ] report1.sqlite[2/3] [================69%         ] report1.sqlite[2/3] [================70%         ] report1.sqlite[2/3] [================71%         ] report1.sqlite[2/3] [=================72%        ] report1.sqlite[2/3] [=================73%        ] report1.sqlite[2/3] [=================74%        ] report1.sqlite[2/3] [==================75%       ] report1.sqlite[2/3] [==================76%       ] report1.sqlite[2/3] [==================77%       ] report1.sqlite[2/3] [==================78%       ] report1.sqlite[2/3] [===================79%      ] report1.sqlite[2/3] [===================80%      ] report1.sqlite[2/3] [===================81%      ] report1.sqlite[2/3] [===================82%      ] report1.sqlite[2/3] [====================83%     ] report1.sqlite[2/3] [====================84%     ] report1.sqlite[2/3] [====================85%     ] report1.sqlite[2/3] [=====================86%    ] report1.sqlite[2/3] [=====================87%    ] report1.sqlite[2/3] [=====================88%    ] report1.sqlite[2/3] [=====================89%    ] report1.sqlite[2/3] [======================90%   ] report1.sqlite[2/3] [======================91%   ] report1.sqlite[2/3] [======================92%   ] report1.sqlite[2/3] [=======================93%  ] report1.sqlite[2/3] [=======================94%  ] report1.sqlite[2/3] [=======================95%  ] report1.sqlite[2/3] [=======================96%  ] report1.sqlite[2/3] [========================97% ] report1.sqlite[2/3] [========================98% ] report1.sqlite[2/3] [========================99% ] report1.sqlite[2/3] [========================100%] report1.sqlite[2/3] [========================100%] report1.sqlite
+[3/3] Executing 'nvtxsum' stats report
+
+NVTX Range Statistics:
+
+ Time (%)  Total Time (ns)  Instances    Avg (ns)       Med (ns)      Min (ns)     Max (ns)    StdDev (ns)   Style           Range       
+ --------  ---------------  ---------  -------------  -------------  -----------  -----------  -----------  --------  -------------------
+     66.3    4,923,721,091        600    8,206,201.8    8,040,677.0    8,014,708   14,659,488    813,667.6  StartEnd  compute pi         
+     29.8    2,208,215,747          6  368,035,957.8  365,972,629.5  364,392,610  378,380,760  5,188,640.0  PushPop   MPI:MPI_Init_thread
+      3.4      253,651,798      1,200      211,376.5       14,322.0        3,025   35,756,957  2,332,615.5  PushPop   MPI:MPI_Barrier    
+      0.3       19,274,376        600       32,124.0        2,855.5          731    2,893,144    215,203.1  PushPop   MPI:MPI_Reduce     
+      0.2       16,734,008          6    2,789,001.3    2,824,635.5    2,525,821    3,095,036    221,818.5  PushPop   MPI:MPI_Finalize   
+
+Generated:
+    /scratch/pc2-mitarbeiter/bauerc/playground/JuliaHLRS22/material/profiling/nsys/montecarlo_pi/report1.nsys-rep
+    /scratch/pc2-mitarbeiter/bauerc/playground/JuliaHLRS22/material/profiling/nsys/montecarlo_pi/report1.sqlite

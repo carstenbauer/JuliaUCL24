@@ -1,0 +1,41 @@
+cpu-bind=MASK - n2lcn0117, task  0  0 [1133986]: mask |BBBBBBBB|BBBBBBBB||BBBBBBBB|BBBBBBBB||BBBBBBBB|BBBBBBBB||BBBBBBBB|BBBBBBBB||||BBBBBBBB|BBBBBBBB||BBBBBBBB|BBBBBBBB||BBBBBBBB|BBBBBBBB||BBBBBBBB|BBBBBBBB|  set
+Running "module reset". Resetting modules to system default. The following $MODULEPATH directories have been removed: None
+
+Memory Bandwidth (GB/s)
+┌───────────────┬─────────┬───────────┐
+│ # Threads = 1 │ :serial │ :parallel │
+├───────────────┼─────────┼───────────┤
+│        :cores │   37.08 │      37.7 │
+│      :sockets │   39.26 │      37.7 │
+│         :numa │   37.02 │     37.73 │
+└───────────────┴─────────┴───────────┘
+
+Memory Bandwidth (GB/s)
+┌───────────────┬─────────┬───────────┐
+│ # Threads = 8 │ :serial │ :parallel │
+├───────────────┼─────────┼───────────┤
+│        :cores │   38.77 │     38.81 │
+│      :sockets │   39.11 │     80.67 │
+│         :numa │   39.17 │    298.45 │
+└───────────────┴─────────┴───────────┘
+
+Memory Bandwidth (GB/s)
+┌────────────────┬─────────┬───────────┐
+│ # Threads = 64 │ :serial │ :parallel │
+├────────────────┼─────────┼───────────┤
+│         :cores │   39.27 │    162.46 │
+│       :sockets │   36.46 │    162.36 │
+│          :numa │   36.81 │     308.9 │
+└────────────────┴─────────┴───────────┘
+
+Memory Bandwidth (GB/s)
+┌─────────────────┬─────────┬───────────┐
+│ # Threads = 128 │ :serial │ :parallel │
+├─────────────────┼─────────┼───────────┤
+│          :cores │   31.81 │    323.72 │
+│        :sockets │   32.38 │    323.79 │
+│           :numa │   31.75 │    324.95 │
+└─────────────────┴─────────┴───────────┘
+344.538676 seconds (1.86 M allocations: 768.135 GiB, 11.02% gc time, 2.56% compilation time)
+465.515742 seconds (4.10 M allocations: 1.594 TiB, 24.28% gc time, 0.88% compilation time: 26% of which was recompilation)
+810.066441 seconds (5.96 M allocations: 2.344 TiB, 18.64% gc time, 1.59% compilation time: 8% of which was recompilation)

@@ -1,0 +1,23 @@
+cpu-bind=MASK - n2cn0207, task  0  0 [22418]: mask |BBBBBBBB|BBBBBBBB||BBBBBBBB|BBBBBBBB||BBBBBBBB|BBBBBBBB||BBBBBBBB|BBBBBBBB||||BBBBBBBB|BBBBBBBB||BBBBBBBB|BBBBBBBB||BBBBBBBB|BBBBBBBB||BBBBBBBB|BBBBBBBB|  set
+Running "module reset". Resetting modules to system default. The following $MODULEPATH directories have been removed: None
+Broadcast: MPI builtin
+number of ranks        =       64
+walltime               =     3.23 sec
+size of the vector     =     2.15 GB
+send and recv messages =   270.58 GB
+bandwidth              =    83.74 GB/s
+
+Broadcast: binary tree
+number of ranks        =       64
+walltime               =     3.72 sec
+size of the vector     =     2.15 GB
+send and recv messages =   270.58 GB
+bandwidth              =    72.69 GB/s
+
+Broadcast: sequential (naive)
+number of ranks        =       64
+walltime               =    11.04 sec
+size of the vector     =     2.15 GB
+send and recv messages =   270.58 GB
+bandwidth              =    24.50 GB/s
+

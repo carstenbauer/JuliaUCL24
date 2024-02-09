@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg9"
+   width="1312.7896"
+   height="759.77301"
+   viewBox="0 0 1312.7896 759.77301"
+   sodipodi:docname="memory_hierarchy.svg"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs13">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath27">
+      <path
+         d="M 0,0 H 1920 V 1080 H 0 Z"
+         id="path25" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.49804688"
+     inkscape:cx="645.52157"
+     inkscape:cy="380.48627"
+     inkscape:window-width="1419"
+     inkscape:window-height="1205"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g23">
+    <inkscape:page
+       x="0"
+       y="0"
+       id="page15"
+       width="1312.7896"
+       height="759.77301" />
+  </sodipodi:namedview>
+  <g
+     id="g17"
+     inkscape:groupmode="layer"
+     inkscape:label="Page 1"
+     transform="matrix(1.3333333,0,0,-1.3333333,-633.80652,1100.1966)">
+    <g
+       id="g19" />
+    <g
+       id="g21">
+      <g
+         id="g23"
+         clip-path="url(#clipPath27)">
+        <path
+           d="M 960,821.6869 1359.68,257.3177 H 560.3199 Z"
+           style="fill:#e9f4fc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path31" />
+        <g
+           id="g33"
+           transform="matrix(1,0,0,-1,560.3199,821.6869)">
+          <path
+             d="M 399.6801,0 799.3602,564.3692 H 0 Z"
+             style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path35" />
+        </g>
+        <g
+           id="g37"
+           transform="matrix(1,0,0,-1,797.9672,593.0053)">
+          <path
+             d="M 0,0 H 323.472"
+             style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path39" />
+        </g>
+        <g
+           id="g41"
+           transform="matrix(1,0,0,-1,870.5225,694.7754)">
+          <path
+             d="M 0,0 H 178.9062"
+             style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path43" />
+        </g>
+        <g
+           id="g45"
+           transform="translate(905.155,710.7754)">
+          <text
+             xml:space="preserve"
+             transform="scale(1,-1)"
+             style="font-variant:normal;font-weight:normal;font-size:30px;font-family:'CMU Sans Serif';-inkscape-font-specification:CMUSansSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text49"><tspan
+               x="0 10.26 23.58 38.580002 45.75 57.240002 68.07 81.389999 91.650002"
+               y="0"
+               sodipodi:role="line"
+               id="tspan47">registers</tspan></text>
+        </g>
+        <g
+           id="g51"
+           transform="translate(883.16,630.8903)">
+          <text
+             xml:space="preserve"
+             transform="scale(1,-1)"
+             style="font-variant:normal;font-weight:normal;font-size:40px;font-family:'CMU Sans Serif';-inkscape-font-specification:CMUSansSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text55"><tspan
+               x="0 21.68 41.68 55 72.760002 91.959999 109.72 130.39999"
+               y="0"
+               sodipodi:role="line"
+               id="tspan53">L1 cache</tspan></text>
+        </g>
+        <g
+           id="g57"
+           transform="matrix(1,0,0,-1,715.962,477.6311)">
+          <path
+             d="M 0,0 H 486.2313"
+             style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path59" />
+        </g>
+        <g
+           id="g61"
+           transform="translate(883.16,522.3181)">
+          <text
+             xml:space="preserve"
+             transform="scale(1,-1)"
+             style="font-variant:normal;font-weight:normal;font-size:40px;font-family:'CMU Sans Serif';-inkscape-font-specification:CMUSansSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text65"><tspan
+               x="0 21.68 41.68 55 72.760002 91.959999 109.72 130.39999"
+               y="0"
+               sodipodi:role="line"
+               id="tspan63">L2 cache</tspan></text>
+        </g>
+        <g
+           id="g67"
+           transform="matrix(1,0,0,-1,633.9175,362.2569)">
+          <path
+             d="M 0,0 H 651.3787"
+             style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path69" />
+        </g>
+        <g
+           id="g71"
+           transform="translate(883.16,406.9439)">
+          <text
+             xml:space="preserve"
+             transform="scale(1,-1)"
+             style="font-variant:normal;font-weight:normal;font-size:40px;font-family:'CMU Sans Serif';-inkscape-font-specification:CMUSansSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text75"><tspan
+               x="0 21.68 41.68 55 72.760002 91.959999 109.72 130.39999"
+               y="0"
+               sodipodi:role="line"
+               id="tspan73">L3 cache</tspan></text>
+        </g>
+        <g
+           id="g77"
+           transform="translate(838.98,297.3718)">
+          <text
+             xml:space="preserve"
+             transform="scale(1,-1)"
+             style="font-variant:normal;font-weight:normal;font-size:40px;font-family:'CMU Sans Serif';-inkscape-font-specification:CMUSansSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text81"><tspan
+               x="0 31.76 50.959999 60.52 81.199997 94.519997 126.28 144.03999 175.8 194.67999 208.36"
+               y="0"
+               sodipodi:role="line"
+               id="tspan79">main memory</tspan></text>
+        </g>
+        <path
+           d="m 486.6328,376.1373 h -11.2779 l 14.7372,-33.3115 14.7371,33.3115 H 493.5513 V 793.207 h -6.9185 z"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path83" />
+        <g
+           id="g85"
+           transform="translate(535.5217,701.8052)">
+          <text
+             xml:space="preserve"
+             transform="scale(1,-1)"
+             style="font-variant:normal;font-weight:normal;font-size:40px;font-family:'CMU Sans Serif';-inkscape-font-specification:CMUSansSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text89"><tspan
+               x="0 20.68 30.24 50.240002 70.239998 88 101.68 112.8"
+               y="0"
+               sodipodi:role="line"
+               id="tspan87">bigger, </tspan></text>
+        </g>
+        <g
+           id="g91"
+           transform="translate(535.5217,649.4052)">
+          <text
+             xml:space="preserve"
+             transform="scale(1,-1)"
+             style="font-variant:normal;font-weight:normal;font-size:40px;font-family:'CMU Sans Serif';-inkscape-font-specification:CMUSansSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text95"><tspan
+               x="0 15.32 24.879999 43.759998 69.959999 87.720001 101.4 112.52"
+               y="0"
+               sodipodi:role="line"
+               id="tspan93">slower, </tspan></text>
+        </g>
+        <g
+           id="g97"
+           transform="translate(535.5217,597.0052)">
+          <text
+             xml:space="preserve"
+             transform="scale(1,-1)"
+             style="font-variant:normal;font-weight:normal;font-size:40px;font-family:'CMU Sans Serif';-inkscape-font-specification:CMUSansSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text101"><tspan
+               x="0 17.76 38.439999 56.200001 75.400002 97.199997 114.96"
+               y="0"
+               sodipodi:role="line"
+               id="tspan99">cheaper</tspan></text>
+        </g>
+        <g
+           id="g103"
+           transform="translate(1060.216,742.4622)">
+          <text
+             xml:space="preserve"
+             transform="scale(1,-1)"
+             style="font-variant:normal;font-weight:normal;font-size:30px;font-family:Baskerville;-inkscape-font-specification:Baskerville;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text107"><tspan
+               x="0"
+               y="0"
+               id="tspan105">~</tspan></text>
+        </g>
+        <g
+           id="g109"
+           transform="translate(1060.216,742.4622)">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,19.99512,0)"
+             style="font-variant:normal;font-weight:normal;font-size:30px;font-family:'CMU Sans Serif';-inkscape-font-specification:CMUSansSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text113"><tspan
+               x="0 15 30 39.990002"
+               y="0"
+               sodipodi:role="line"
+               id="tspan111">10 B</tspan></text>
+        </g>
+        <g
+           id="g115"
+           transform="translate(1135.789,633.8903)">
+          <text
+             xml:space="preserve"
+             transform="scale(1,-1)"
+             style="font-variant:normal;font-weight:normal;font-size:30px;font-family:Baskerville;-inkscape-font-specification:Baskerville;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text119"><tspan
+               x="0"
+               y="0"
+               id="tspan117">~</tspan></text>
+        </g>
+        <g
+           id="g121"
+           transform="translate(1135.789,633.8903)">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,19.99512,0)"
+             style="font-variant:normal;font-weight:normal;font-size:30px;font-family:'CMU Sans Serif';-inkscape-font-specification:CMUSansSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text125"><tspan
+               x="0 15 30 39.990002 54.66"
+               y="0"
+               sodipodi:role="line"
+               id="tspan123">10 kB</tspan></text>
+        </g>
+        <g
+           id="g127"
+           transform="translate(1213.752,525.3184)">
+          <text
+             xml:space="preserve"
+             transform="scale(1,-1)"
+             style="font-variant:normal;font-weight:normal;font-size:30px;font-family:Baskerville;-inkscape-font-specification:Baskerville;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text131"><tspan
+               x="0"
+               y="0"
+               id="tspan129">~</tspan></text>
+        </g>
+        <g
+           id="g133"
+           transform="translate(1213.752,525.3184)">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,19.99512,0)"
+             style="font-variant:normal;font-weight:normal;font-size:30px;font-family:'CMU Sans Serif';-inkscape-font-specification:CMUSansSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text137"><tspan
+               x="0 15 30 45 54.990002 69.660004"
+               y="0"
+               sodipodi:role="line"
+               id="tspan135">100 kB</tspan></text>
+        </g>
+        <g
+           id="g139"
+           transform="translate(1294.121,409.9439)">
+          <text
+             xml:space="preserve"
+             transform="scale(1,-1)"
+             style="font-variant:normal;font-weight:normal;font-size:30px;font-family:Baskerville;-inkscape-font-specification:Baskerville;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text143"><tspan
+               x="0"
+               y="0"
+               id="tspan141">~</tspan></text>
+        </g>
+        <g
+           id="g145"
+           transform="translate(1294.121,409.9439)">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,19.99512,0)"
+             style="font-variant:normal;font-weight:normal;font-size:30px;font-family:'CMU Sans Serif';-inkscape-font-specification:CMUSansSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text149"><tspan
+               x="0 15 24.99 51.240002"
+               y="0"
+               sodipodi:role="line"
+               id="tspan147">1 MB</tspan></text>
+        </g>
+        <g
+           id="g151"
+           transform="translate(1376.652,300.3718)">
+          <text
+             xml:space="preserve"
+             transform="scale(1,-1)"
+             style="font-variant:normal;font-weight:normal;font-size:30px;font-family:Baskerville;-inkscape-font-specification:Baskerville;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text155"><tspan
+               x="0"
+               y="0"
+               id="tspan153">≥</tspan></text>
+        </g>
+        <g
+           id="g157"
+           transform="translate(1376.652,300.3718)">
+          <text
+             xml:space="preserve"
+             transform="matrix(1,0,0,-1,19.99512,0)"
+             style="font-variant:normal;font-weight:normal;font-size:30px;font-family:'CMU Sans Serif';-inkscape-font-specification:CMUSansSerif;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text161"><tspan
+               x="0 15 24.99 45"
+               y="0"
+               sodipodi:role="line"
+               id="tspan159">1 GB</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

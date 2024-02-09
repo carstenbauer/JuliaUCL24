@@ -1,0 +1,13 @@
+[CUDA_Runtime_jll]
+__clear__ = ["local"]
+version = "12.2"
+
+[MPIPreferences]
+__clear__ = ["preloads_env_switch"]
+_format = "1.0"
+abi = "OpenMPI"
+binary = "system"
+cclibs = []
+libmpi = "libmpi"
+mpiexec = "mpiexec"
+preloads = []

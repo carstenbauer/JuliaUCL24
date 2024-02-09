@@ -1,0 +1,45 @@
+Running 1_mpi_hello.jl
+Hello world, I am rank 0 of 5
+Hello world, I am rank 2 of 5
+Hello world, I am rank 3 of 5
+Hello world, I am rank 4 of 5
+Hello world, I am rank 1 of 5
+Running 2_mpi_basic_communication.jl
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+[3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+[4, 4, 4, 4, 4, 4, 4, 4, 4, 4]
+Running 3_mpi_basic_communication_nonblocking.jl
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+[3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+[4, 4, 4, 4, 4, 4, 4, 4, 4, 4]
+Running 4_mpi_wtime.jl
+  0.000095 seconds (5 allocations: 144 bytes)
+  1.002169 seconds (5 allocations: 144 bytes)
+  2.002505 seconds (5 allocations: 144 bytes)
+  3.004562 seconds (5 allocations: 144 bytes)
+  4.005470 seconds (5 allocations: 144 bytes)
+Elapsed MPI Wtime: 4.117706907
+Elapsed MPI Wtime: 4.117799418
+Elapsed MPI Wtime: 4.117634887
+Elapsed MPI Wtime: 4.105009628
+Elapsed MPI Wtime: 4.112570864
+Running 5_mpi_reduction.jl
+local_heads_count = 8
+local_heads_count = 5
+local_heads_count = 3
+local_heads_count = 5
+local_heads_count = 4
+Total sum: 25
+Running 6_mpi_custom.jl
+local_result = MyType(10.0f0, 10, [10, 10])
+local_result = MyType(0.0f0, 0, [0, 0])
+local_result = MyType(20.0f0, 20, [20, 20])
+local_result = MyType(30.0f0, 30, [30, 30])
+local_result = MyType(40.0f0, 40, [40, 40])
+Total result: MyType(100.0f0, 100, [100, 100])
+Running 7_mpi_trapezoidal_integration.jl
+π (numerical integration) ≈   3.1415893274305811

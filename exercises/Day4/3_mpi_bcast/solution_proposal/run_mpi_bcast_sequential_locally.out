@@ -1,0 +1,7 @@
+Broadcast: sequential (naive)
+number of ranks        =        8
+walltime               =     0.05 sec
+size of the vector     =     0.13 GB
+send and recv messages =     1.88 GB
+bandwidth              =    35.72 GB/s
+
