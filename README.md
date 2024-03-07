@@ -1,6 +1,6 @@
 # JuliaUCL24
 
-A four-day Intro to Julia for HPC course that will take place at the [UCL Centre for Advanced Research Computing](https://www.ucl.ac.uk/advanced-research-computing) in London in February 2024.
+A four-day Intro to Julia for HPC course with ~ 40 participants that took place at the [UCL Centre for Advanced Research Computing](https://www.ucl.ac.uk/advanced-research-computing) in London in February 2024.
 
 **Course page:** https://github-pages.arc.ucl.ac.uk/julia-hpc-2024/
 <br>
